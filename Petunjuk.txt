@@ -1,8 +1,12 @@
-1.. Unduh aplikasi AR pada link berikut
+1.. Unduh aplikasi ARBOOK1.apk pada link berikut
 
 https://drive.google.com/uc?id=1QkNvfuINiES9sQwS29umpRg_Z-8tR_OD&export=download
 atau
 https://drive.google.com/uc?export=download&confirm=Bmtv&id=1QkNvfuINiES9sQwS29umpRg_Z-8tR_OD
 
-2.. Image/Gambar pada folder ini akan digunakan sebagai marker untuk memunculkan pembelajaran bahasa inggris dengan Augmented Reality.
+2.. Image/Gambar pada folder ImageMarker akan digunakan sebagai marker untuk memunculkan pembelajaran bahasa inggris dengan Augmented Reality.
 Oleh sebab itu Download terlebih dahulu setiap image/gambar kemudian Print/Cetak.
+
+3.. Install ARBOOK1.apk
+
+4.. Jalankan Aplikasi ARBOOK kemudian scan image/gambar yang telah diprint
